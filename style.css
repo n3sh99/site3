@@ -2,12 +2,12 @@ body {
 background-image: url(images.jpeg);
 color: black;
 
-
 }
 header{
     background-color: rgb(247, 247, 247);
     text-align: center;
     align-items: flex-end;
+    height: 6rem;
 }
 section{
 color: black;
