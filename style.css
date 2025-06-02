@@ -6,10 +6,13 @@ color: black;
 }
 header{
     background-color: rgb(247, 247, 247);
+    text-align: center;
+    align-items: flex-end;
 }
 section{
 color: black;
 }
 .classe1{
 color: black;
+background-image: url();
 }
