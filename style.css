@@ -1,15 +1,15 @@
 body {
-background-color: black;
-color: green;
+background-color: white;
+color: black;
 
 
 }
 header{
-    background-color: rgb(16, 16, 16);
+    background-color: rgb(247, 247, 247);
 }
 section{
-color: green;
+color: black;
 }
 .classe1{
-color: green;
+color: black;
 }
